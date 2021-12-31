@@ -1,5 +1,5 @@
 ---
-title: Javascript - 按位取反运算符
+title: Javascript - 按位取反运算符 ~
 description: 通过转换为二进制原码再进行若干步骤（取反、反码、补码）得到目标值
 toc: true
 #authors:
